@@ -1,5 +1,5 @@
 import streamlit as st
-from langchain.llms import OpenAI
+from langchain.llms import openai
 
 with st.sidebar:
     st.title('🤖💬 OpenAI Chatbot')
